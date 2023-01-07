@@ -1,0 +1,37 @@
+"animaData": [
+    {
+        "id": 1,
+        "name": "elephant",
+        "imageUrl":"https://images.unsplash.com/photo-1603483080228-04f2313d9f10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZWxlcGhhbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "description": "African elephants are the largest land animals on Earth",
+        "donations": 0
+    },
+    {
+        "id": 2,
+        "name": "lion",
+        "imageUrl":"https://images.unsplash.com/photo-1552410260-0fd9b577afa6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey.",
+        "donations": 0
+    },
+    {
+        "id": 3,
+        "name": "buffalo",
+        "imageUrl":"https://images.unsplash.com/photo-1508605375977-9fe795aea86a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YnVmZmFsb3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "A buffalo is a wild animal like a large cow with horns that curve upwards. Buffalo are usually found in southern and eastern Africa.",
+        "donations": 0
+    },
+    {
+        "id": 4,
+        "name": "whiteRhino",
+        "imageUrl":"https://plus.unsplash.com/premium_photo-1664304460451-c50bc26a0d90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8d2hpdGUlMjByaGlub3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "White rhinos are the second-largest land mammal and their name comes from the Afrikaan's, a West Germanic language, word “weit” which means wide and refers to the animal's mouth",
+        "donations": 0
+    },
+    {
+        "id": 5,
+        "name": "leaopard",
+        "imageUrl":"https://images.unsplash.com/photo-1561389789-08bb54255024?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGxlb3BhcmR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "description": "These large carnivores are powerfully built with long bodies, relatively short legs, and a broad head. There are nine subspecies and are distinguished by the unique characteristics of their coats.",
+        "donations": 0
+    },
+]
